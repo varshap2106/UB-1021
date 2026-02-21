@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Digestive",
+      "symptoms": [
+        {"id": "bloating", "name": "Bloating", "weight": 2, "dosha": "Vata"},
+        {"id": "acidity", "name": "Acidity", "weight": 3, "dosha": "Pitta"},
+        {"id": "indigestion", "name": "Indigestion", "weight": 2, "dosha": "Vata"},
+        {"id": "constipation", "name": "Constipation", "weight": 2, "dosha": "Vata"},
+        {"id": "diarrhea", "name": "Diarrhea", "weight": 3, "dosha": "Pitta"},
+        {"id": "nausea", "name": "Nausea", "weight": 2, "dosha": "Kapha"}
+      ]
+    },
+    {
+      "name": "Respiratory",
+      "symptoms": [
+        {"id": "cough", "name": "Cough", "weight": 2, "dosha": "Kapha"},
+        {"id": "cold", "name": "Cold", "weight": 2, "dosha": "Kapha"},
+        {"id": "congestion", "name": "Congestion", "weight": 2, "dosha": "Kapha"},
+        {"id": "shortness_of_breath", "name": "Shortness of breath", "weight": 5, "dosha": "Emergency"}
+      ]
+    },
+    {
+      "name": "Pain",
+      "symptoms": [
+        {"id": "headache", "name": "Headache", "weight": 2, "dosha": "Pitta"},
+        {"id": "joint_pain", "name": "Joint pain", "weight": 2, "dosha": "Vata"},
+        {"id": "muscle_pain", "name": "Muscle pain", "weight": 2, "dosha": "Vata"},
+        {"id": "chest_pain", "name": "Chest pain", "weight": 5, "dosha": "Emergency"}
+      ]
+    },
+    {
+      "name": "General",
+      "symptoms": [
+        {"id": "fatigue", "name": "Fatigue", "weight": 1, "dosha": "Vata"},
+        {"id": "fever", "name": "Fever", "weight": 3, "dosha": "Pitta"},
+        {"id": "dizziness", "name": "Dizziness", "weight": 4, "dosha": "Vata"},
+        {"id": "anxiety", "name": "Anxiety", "weight": 2, "dosha": "Vata"}
+      ]
+    }
+  ]
+}

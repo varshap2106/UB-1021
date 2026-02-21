@@ -1,0 +1,56 @@
+{
+  "redFlagSymptoms": [
+    "chest_pain",
+    "difficulty_breathing",
+    "shortness_of_breath",
+    "severe_bleeding",
+    "unconscious",
+    "confusion_sudden",
+    "paralysis",
+    "seizure",
+    "severe_allergic",
+    "head_injury",
+    "severe_burn",
+    "poisoning",
+    "suicidal_thoughts",
+    "stroke_symptoms"
+  ],
+  
+  "vitalThresholds": {
+    "heartRate": {
+      "min": 40,
+      "max": 140,
+      "criticalMin": 30,
+      "criticalMax": 160
+    },
+    "oxygenLevel": {
+      "min": 90,
+      "criticalMin": 85
+    },
+    "temperature": {
+      "max": 103,
+      "criticalMax": 105
+    },
+    "bloodPressure": {
+      "systolicMin": 70,
+      "systolicMax": 200,
+      "diastolicMin": 40,
+      "diastolicMax": 120
+    }
+  },
+  
+  "emergencyMessages": {
+    "chest_pain": {
+      "message": "🚨 Possible heart attack symptoms",
+      "action": "Call 102 immediately. Chew aspirin if available."
+    },
+    "difficulty_breathing": {
+      "message": "🚨 Respiratory distress detected",
+      "action": "Call 102. Sit upright and loosen clothing."
+    },
+    "stroke_symptoms": {
+      "message": "🚨 Possible stroke (FAST: Face, Arm, Speech, Time)",
+      "action": "Call 102 immediately. Note time symptoms started."
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "Vata": {
+    "diet": [
+      "Warm, cooked foods like soups and stews",
+      "Healthy fats: ghee, sesame oil, avocado",
+      "Sweet, sour, and salty tastes",
+      "Warm milk with turmeric and ginger at bedtime",
+      "Avoid cold, dry, raw foods"
+    ],
+    "lifestyle": [
+      "Maintain regular daily routine",
+      "Warm oil massage (Abhyanga) daily",
+      "Go to bed by 10 PM",
+      "Keep warm in cold weather",
+      "Gentle, grounding exercises"
+    ],
+    "herbs": [
+      "Ashwagandha for strength and calm",
+      "Dashamoola for Vata balance",
+      "Licorice for soothing effect",
+      "Triphala for gentle cleansing",
+      "Bala for nervous system support"
+    ],
+    "yoga": [
+      "Slow, grounding poses like Tadasana",
+      "Child's pose (Balasana)",
+      "Corpse pose (Savasana)",
+      "Gentle forward bends",
+      "Nadi Shodhana pranayama"
+    ],
+    "daily_routine": [
+      "Wake before sunrise",
+      "Oil pulling with sesame oil",
+      "Warm breakfast",
+      "Main meal at noon",
+      "Light dinner by 7 PM"
+    ]
+  },
+  "Pitta": {
+    "diet": [
+      "Cooling foods like cucumber, coconut",
+      "Sweet, bitter, and astringent tastes",
+      "Fresh fruits and vegetables",
+      "Coconut water and aloe vera juice",
+      "Avoid spicy, oily, fermented foods"
+    ],
+    "lifestyle": [
+      "Stay cool, avoid midday sun",
+      "Calming activities like walking in nature",
+      "Take time for leisure and fun",
+      "Avoid excessive competition",
+      "Cooling oil massage with coconut oil"
+    ],
+    "herbs": [
+      "Brahmi for mental clarity",
+      "Neem for blood purification",
+      "Shatavari for cooling effect",
+      "Amla for vitamin C",
+      "Sandalwood for calming"
+    ],
+    "yoga": [
+      "Cooling breaths (Sheetali)",
+      "Moon salutations",
+      "Forward bends",
+      "Gentle twists",
+      "Corpse pose with cooling focus"
+    ],
+    "daily_routine": [
+      "Wake before sunrise",
+      "Cool shower",
+      "Light breakfast",
+      "Avoid skipping meals",
+      "Early to bed"
+    ]
+  },
+  "Kapha": {
+    "diet": [
+      "Light, warm, dry foods",
+      "Pungent, bitter, astringent tastes",
+      "Raw honey in warm water",
+      "Spices like ginger, black pepper",
+      "Avoid heavy, oily, cold foods"
+    ],
+    "lifestyle": [
+      "Active routine with exercise",
+      "Dry brushing before shower",
+      "Varied schedule, avoid stagnation",
+      "Socialize and stay engaged",
+      "Wake early, avoid day sleep"
+    ],
+    "herbs": [
+      "Trikatu for digestion",
+      "Guggulu for metabolism",
+      "Tulsi for respiratory health",
+      "Pippali for Kapha balance",
+      "Ginger tea daily"
+    ],
+    "yoga": [
+      "Energizing poses like Sun salutations",
+      "Backbends and chest openers",
+      "Kapalabhati pranayama",
+      "Bhastrika (bellows breath)",
+      "Inversions if possible"
+    ],
+    "daily_routine": [
+      "Wake by 5-6 AM",
+      "Dry brushing",
+      "Active morning routine",
+      "Light breakfast",
+      "Exercise daily"
+    ]
+  },
+  "general": {
+    "emergency": [
+      "If experiencing chest pain, difficulty breathing, or severe symptoms - CALL 102 IMMEDIATELY",
+      "Do not rely on home remedies for emergencies",
+      "Seek professional medical help",
+      "Keep emergency contacts handy"
+    ],
+    "prevention": [
+      "Drink warm water throughout the day",
+      "Eat fresh, seasonal foods",
+      "Maintain regular meal times",
+      "Practice daily meditation",
+      "Get adequate sleep (7-8 hours)",
+      "Exercise regularly",
+      "Practice gratitude"
+    ]
+  }
+}
